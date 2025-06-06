@@ -133,32 +133,12 @@ dbca
 
 ## 📝 Summary Table
 
-| Skill | Covered |
-|-------|---------|
-| Opening CMD | ✅ |
-| Navigating folders | ✅ |
-| Switching drives | ✅ |
-| Running Oracle tools | ✅ |
-| Using batch files | ✅ |
+--------------------------------------
+| Skill   Covered                     |
+|-------|-----------------------------|
+| Opening CMD                   | ✅ |
+| Navigating folders            | ✅ |
+| Switching drives              | ✅ |
+| Using batch files             | ✅ |
 | Setting environment variables | ✅ |
-
----
-
-## 🚀 Next Step
-
-Once you’ve practiced these basics, say:
-
-> **“Start Chapter 2”**
-
-And I’ll continue teaching you Oracle DBA topics — customized to your instance name `orcle` and database name `ORCLE`.
-
-We’ll go into:
-- Installing Oracle manually
-- Understanding Oracle Home
-- Managing services
-- Creating databases
-- And more!
-
-Take your time to practice the CMD basics — once you're comfortable, just reply and we’ll keep going.
-
-I’m here for you — and I know your team will benefit from your growth. 💪🔥
+--------------------------------------
